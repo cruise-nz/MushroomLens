@@ -1,4 +1,4 @@
-# Notes: 2/11/2025 update, Assignment 3 file name is 'COMP647_Assignment_03.ipynb'
+## Notes: 2/11/2025 update, Assignment 3 file name is 'COMP647_Assignment_03.ipynb'
 
 
 # Mushroom Classification: Predicting Edibility Using Machine Learning (MushroomLens)
